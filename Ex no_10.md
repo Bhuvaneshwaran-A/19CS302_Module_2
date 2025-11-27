@@ -10,7 +10,7 @@ To write a C program to find the factorial of a given number using a function wi
 2. Declare the variables. 
 3. Prompt the user to enter a value. 
 4. Read the value using scanf. 
-5. Enter factorial of the number. 
+5. Enter factorial of the number.  
 6. End.  
 
 ## Program:
