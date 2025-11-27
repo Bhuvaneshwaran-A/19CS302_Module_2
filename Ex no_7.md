@@ -1,3 +1,4 @@
+
 # EX 7 C Program to Print a right triangle star Pattern
 
 ## DATE:
